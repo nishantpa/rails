@@ -1,11 +1,13 @@
-# README
+# Rails Toy
 
+This app is a sample app to demonstrate Rails scaffolding
+___________________________________________________________________________
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: 2.5.0
 
 * System dependencies
 
